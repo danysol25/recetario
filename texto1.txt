@@ -1,0 +1,10 @@
+Soy el nuevo texto.
+Hola mundoTambién puedo hacer con triple comillas.
+Esto sirve como los comentarios
+y respeta los saltos de línea.
+concatenatodaslaslineassinespacios.concatena
+todas
+las
+lineas
+sin
+espacios.
